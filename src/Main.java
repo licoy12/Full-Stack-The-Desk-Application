@@ -25,6 +25,7 @@ public class Main {
             System.out.println(arr[i]);
             // display the all the Strings mentioned in the String array
         }
+        //added comment
         ArrayList<Integer> arrlist = new ArrayList<Integer>();
         ArrayList<Integer> expenses = new ArrayList<Integer>();
         expenses.add(1000);
